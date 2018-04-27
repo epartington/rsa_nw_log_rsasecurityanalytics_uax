@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEVICEMESSAGES
+	 name="rsasecurityanalytics_uax"
+	 displayname="rssecurityanalytics_uax"
+	 group="Application Servers"
+	 type="7104">
+<VERSION
+	 xml="2.10"
+	 device="2.0"/>
+<TAGVALMAP/>
+<HEADER
+	 id1="HDR1"
+	 id2="HDR1"
+	 content="&lt;hmonth&gt;&lt;hday&gt;&lt;htime&gt;&lt;hhost&gt;rsa_uax_log&lt;hdate&gt;&lt;htime&gt;,&lt;hfld1&gt;deviceVersion: &quot;&lt;hversion&gt;&quot; deviceService: &quot;&lt;SA_SERVER&gt;&quot;  category:&lt;messageid&gt;&lt;!payload:hversion&gt;"/>
+<HEADER
+	 id1="HDR3"
+	 id2="HDR3"
+	 content="&lt;hmonth&gt;&lt;hday&gt;&lt;htime&gt;&lt;hhost&gt;rsa_uax_log&lt;hdate&gt;&lt;htime&gt;,&lt;hfld1&gt;deviceVersion: &quot;&lt;hversion&gt;&quot; deviceService: &quot;&lt;SA_SERVER&gt;&quot; category:&lt;messageid&gt;&lt;!payload:hversion&gt;"/>
+<HEADER
+	 id1="HDR4"
+	 id2="HDR4"
+	 content="&lt;hmonth&gt;&lt;hday&gt;&lt;htime&gt;&lt;hhost&gt;REPORTING_ENGINE {{&quot;category&quot;:&quot;&lt;messageid&gt;&quot;,&quot;deviceProduct&quot;:&quot;&lt;hproduct&gt;&quot;,&quot;deviceService&quot;:&quot;&lt;SA_SERVER&gt;&quot;,&quot;deviceVendor&quot;:&quot;&lt;hvendor&gt;&quot;,&quot;deviceVersion&quot;:&quot;&lt;hversion&gt;&quot;&lt;!payload:messageid&gt;"/>
+<MESSAGE
+	 id1="AUTHENTICATION:03"
+	 id2="AUTHENTICATION"
+	 content="&lt;version&gt;&quot; deviceService: &quot;&lt;application&gt;&quot;  category:&lt;ec_theme&gt;operation: &quot;&lt;action&gt;&quot; outcome: &quot;&lt;result&gt;&quot; identity: &quot;&lt;username&gt;&quot; userRole: &quot;&lt;user_role&gt;&quot; userAgent: &quot;&lt;user_agent&gt;&quot; referrerURL: &quot;&lt;saddr&gt;&quot;"/>
+<MESSAGE
+	 id1="AUTHENTICATION"
+	 id2="AUTHENTICATION"
+	 content="&lt;version&gt;&quot; deviceService: &quot;&lt;application&gt;&quot;  category:&lt;ec_theme&gt;operation: &quot;&lt;action&gt;&quot; outcome: &quot;&lt;result&gt;&quot; identity: &quot;&lt;username&gt;&quot; userRole: &quot;&lt;user_role&gt;&quot;"/>
+<MESSAGE
+	 id1="AUTHENTICATION:01"
+	 id2="AUTHENTICATION"
+	 eventcategory="1401030000"
+	 content="&lt;version&gt;&quot; deviceService: &quot;&lt;application&gt;&quot;  category:&lt;ec_theme&gt;operation: &quot;&lt;action&gt;&quot; outcome: &quot;&lt;result&gt;&quot; text: &quot;&lt;event_description&gt;&quot; identity: &quot;&lt;username&gt;&quot; userAgent: &quot;&lt;user_agent&gt;&quot; referrerURL: &quot;&lt;saddr&gt;&quot;"/>
+<MESSAGE
+	 id1="CONFIGURATION:01"
+	 id2="CONFIGURATION"
+	 eventcategory="1701000000"
+	 content="&lt;version&gt;&quot; deviceService: &quot;&lt;application&gt;&quot;  category:&lt;ec_theme&gt;operation: &quot;&lt;action&gt;&quot; parameters: &quot;&lt;category&gt;&quot; outcome: &quot;&lt;result&gt;&quot; key: &quot;&lt;webpage&gt;&quot; value: &quot;&lt;fld2&gt;&quot; identity: &quot;&lt;username&gt;&quot; userRole: &quot;&lt;user_role&gt;&quot;"/>
+<MESSAGE
+	 id1="CONFIGURATION"
+	 id2="CONFIGURATION"
+	 eventcategory="1701000000"
+	 content="&lt;version&gt;&quot; deviceService: &quot;&lt;application&gt;&quot;  category:&lt;ec_theme&gt;operation: &quot;&lt;action&gt;&quot; outcome: &quot;&lt;result&gt;&quot; key: &quot;&lt;category&gt;&quot; value: &quot;&lt;fld1&gt;&quot; identity: &quot;&lt;username&gt;&quot; userRole: &quot;&lt;user_role&gt;&quot;"/>
+<MESSAGE
+	 id1="CONFIGURATION:02"
+	 id2="CONFIGURATION"
+	 eventcategory="1701000000"
+	 content="&lt;version&gt;&quot; deviceService: &quot;&lt;application&gt;&quot;  category:&lt;ec_theme&gt;severity:&lt;fld3&gt;scope: &quot;&lt;fld2&gt;&quot; operation: &quot;&lt;action&gt;&quot; key: &quot;&lt;webpage&gt;&quot; value: &quot;&lt;fld1&gt;&quot; identity: &quot;&lt;username&gt;&quot; userRole: &quot;&lt;user_role&gt;&quot;"/>
+<MESSAGE
+	 id1="CONFIGURATION:03"
+	 id2="CONFIGURATION"
+	 eventcategory="1701000000"
+	 content="&lt;version&gt;&quot; deviceService: &quot;&lt;application&gt;&quot;  category:&lt;ec_theme&gt;operation: &quot;&lt;action&gt;&quot; key: &quot;&lt;category&gt;&quot; value: &quot;&lt;fld1&gt;&quot; identity: &quot;&lt;username&gt;&quot; userRole: &quot;&lt;user_role&gt;&quot;"/>
+<MESSAGE
+	 id1="CONFIGURATION:04"
+	 id2="CONFIGURATION"
+	 content="&lt;version&gt;&quot; deviceService: &quot;&lt;application&gt;&quot;  category:&lt;ec_theme&gt;severity:&lt;fld3&gt;scope: &quot;&lt;category&gt;&quot; operation: &quot;&lt;action&gt;&quot; key: &quot;&lt;webpage&gt;&quot; text: &quot;&lt;fld3&gt;&quot; identity: &quot;&lt;username&gt;&quot;"/>
+<MESSAGE
+	 id1="CONFIGURATION:05"
+	 id2="CONFIGURATION"
+	 content="&lt;version&gt;&quot; deviceService: &quot;&lt;application&gt;&quot;  category:&lt;ec_theme&gt;severity:&lt;fld3&gt;scope: &quot;&lt;fld2&gt;&quot; operation: &quot;&lt;action&gt;&quot; key: &quot;"/>
+<MESSAGE
+	 id1="CONFIGURATION:06"
+	 id2="CONFIGURATION"
+	 content="&lt;version&gt;&quot; deviceService: &quot;&lt;application&gt;&quot;  category:&lt;ec_theme&gt;operation: &quot;&lt;action&gt;&quot; parameters: &quot;&lt;category&gt;&quot; outcome: &quot;&lt;result&gt;&quot; key: &quot;&lt;fld1&gt;&quot; text: &quot;&lt;fld3&gt;&quot; identity: &quot;&lt;username&gt;&quot; userRole: &quot;&lt;user_role&gt;&quot;"/>
+<MESSAGE
+	 id1="CONFIGURATION:07"
+	 id2="CONFIGURATION"
+	 content="&lt;version&gt;&quot; deviceService: &quot;&lt;application&gt;&quot;  category:&lt;ec_theme&gt;operation: &quot;&lt;action&gt;&quot; outcome: &quot;&lt;result&gt;&quot; key: &quot;&lt;category&gt;&quot; text: &quot;&lt;context&gt;User [&lt;c_username&gt;] by&lt;fld3&gt;from&lt;saddr&gt;&quot; identity: &quot;&lt;username&gt;&quot; userRole: &quot;&lt;user_role&gt;&quot;"/>
+<MESSAGE
+	 id1="CONFIGURATION:08"
+	 id2="CONFIGURATION"
+	 content="&lt;version&gt;&quot; deviceService: &quot;&lt;application&gt;&quot;  category:&lt;category&gt;operation: &quot;&lt;action&gt;&quot; outcome: &quot;&lt;result&gt;&quot; key: &quot;&lt;category&gt;&quot; text: &quot;&lt;context&gt;User Old value [[&lt;fld1&gt;]], new value [[&lt;fld2&gt;]] by&lt;fld3&gt;from&lt;saddr&gt;&quot; identity: &quot;&lt;username&gt;&quot; userRole: &quot;&lt;user_role&gt;&quot;"/>
+<MESSAGE
+	 id1="DATA_ACCESS"
+	 id2="DATA_ACCESS"
+	 eventcategory="1204010000"
+	 content="&lt;version&gt;&quot; deviceService: &quot;&lt;application&gt;&quot;  category:&lt;ec_theme&gt;operation: &quot;&lt;action&gt;&quot; parameters: &quot;{{referrer=&lt;url&gt;, method=&lt;web_method&gt;, userAgent=&lt;user_agent&gt;, queryString=&lt;web_query&gt;, uri=&lt;uri&gt;, remoteAddress=&lt;saddr&gt;}&quot; outcome: &quot;&lt;result&gt;&quot; identity: &quot;&lt;username&gt;&quot;"/>
+<MESSAGE
+	 id1="DATA_ACCESS:01"
+	 id2="DATA_ACCESS"
+	 eventcategory="1204000000"
+	 content="&lt;version&gt;&quot; deviceService: &quot;&lt;application&gt;&quot;  category:&lt;ec_theme&gt;scope: &quot;&lt;event_description&gt;&quot; operation: &quot;&lt;action&gt;&quot; outcome: &quot;&lt;result&gt;&quot; identity: &quot;&lt;username&gt;&quot; userRole: &quot;&lt;user_role&gt;&quot;"/>
+<MESSAGE
+	 id1="DATA_ACCESS:04"
+	 id2="DATA_ACCESS"
+	 eventcategory="1206000000"
+	 content="&lt;version&gt;&quot; deviceService: &quot;&lt;application&gt;&quot;  category:&lt;ec_theme&gt;operation: &quot;&lt;action&gt;&quot; parameters: &quot;&lt;category&gt;&quot; outcome: &quot;&lt;result&gt;&quot; value: &quot;&lt;fld1&gt;&quot; identity: &quot;&lt;username&gt;&quot; userRole: &quot;&lt;user_role&gt;&quot;"/>
+<MESSAGE
+	 id1="DATA_ACCESS:05"
+	 id2="DATA_ACCESS"
+	 eventcategory="1206000000"
+	 content="&lt;version&gt;&quot; deviceService: &quot;&lt;application&gt;&quot;  category:&lt;ec_theme&gt;operation: &quot;&lt;action&gt;&quot; parameters: &quot;&lt;category&gt;&quot; outcome: &quot;&lt;result&gt;text: &quot;&lt;fld3&gt;&quot; identity: &quot;&lt;username&gt;&quot; userRole: &quot;&lt;user_role&gt;&quot;"/>
+<MESSAGE
+	 id1="DATA_ACCESS:09"
+	 id2="DATA_ACCESS"
+	 eventcategory="1206000000"
+	 content="&lt;version&gt;&quot; deviceService: &quot;&lt;application&gt;&quot;  category:&lt;ec_theme&gt;operation: &quot;&lt;action&gt;&quot; parameters: &quot;&lt;webpage&gt;&quot; outcome: &quot;&lt;result&gt;&quot; identity: &quot;&lt;username&gt;&quot; userRole: &quot;&lt;user_role&gt;&quot;"/>
+<MESSAGE
+	 id1="DATA_ACCESS:06"
+	 id2="DATA_ACCESS"
+	 eventcategory="1206000000"
+	 content="&lt;version&gt;&quot; deviceService: &quot;&lt;application&gt;&quot;  category:&lt;ec_theme&gt;operation: &quot;&lt;action&gt;&quot; parameters: &quot;&lt;webpage&gt;&quot; identity: &quot;&lt;username&gt;&quot; userRole: &quot;&lt;user_role&gt;&quot;"/>
+<MESSAGE
+	 id1="DATA_ACCESS:07"
+	 id2="DATA_ACCESS"
+	 eventcategory="1.206e+9"
+	 content="&lt;version&gt;&quot; deviceService: &quot;&lt;application&gt;&quot;  category:&lt;ec_theme&gt;operation: &quot;&lt;action&gt;&quot; parameters: &quot;"/>
+<MESSAGE
+	 id1="DATA_ACCESS:08"
+	 id2="DATA_ACCESS"
+	 eventcategory="1.206e+9"
+	 content="&lt;version&gt;&quot; deviceService: &quot;&lt;application&gt;&quot;  category:&lt;ec_theme&gt;operation: &quot;&lt;action&gt;&quot; outcome: &quot;&lt;result&gt;&quot;"/>
+<MESSAGE
+	 id1="MANAGEMENT"
+	 id2="MANAGEMENT"
+	 eventcategory="1701000000"
+	 content="&lt;version&gt;&quot; deviceService: &quot;&lt;application&gt;&quot; category:&lt;ec_theme&gt;operation: &quot;&lt;action&gt;&quot; parameters: &quot;&lt;fld1&gt;&quot; outcome: &quot;&lt;result&gt;&quot; identity: &quot;&lt;username&gt;&quot; userRole: &quot;&lt;user_role&gt;&quot;"/>
+<MESSAGE
+	 id1="MANAGEMENT:01"
+	 id2="MANAGEMENT"
+	 eventcategory="1.701e+9"
+	 content="&lt;version&gt;&quot; deviceService: &quot;&lt;application&gt;&quot;  category:&lt;ec_theme&gt;scope: &quot;&lt;category&gt;&quot; operation: &quot;&lt;action&gt;&quot; parameters: &quot;&lt;fld1&gt;&quot; outcome: &quot;&lt;result&gt;&quot; identity: &quot;&lt;username&gt;&quot; userRole: &quot;&lt;user_role&gt;&quot;"/>
+<MESSAGE
+	 id1="MANAGEMENT:02"
+	 id2="MANAGEMENT"
+	 eventcategory="1.701e+9"
+	 content="&lt;version&gt;&quot; deviceService: &quot;&lt;application&gt;&quot;  category:&lt;ec_theme&gt;operation: &quot;&lt;action&gt;&quot; parameters: &quot;&lt;category&gt;&quot; outcome: &quot;&lt;result&gt;&quot; text: &quot;&lt;fld3&gt;&quot; identity: &quot;&lt;username&gt;&quot; userRole: &quot;&lt;user_role&gt;&quot;"/>
+<MESSAGE
+	 id1="MANAGEMENT:03"
+	 id2="MANAGEMENT"
+	 eventcategory="1.701e+9"
+	 content="&lt;version&gt;&quot; deviceService: &quot;&lt;application&gt;&quot;  category:&lt;ec_theme&gt;operation: &quot;&lt;action&gt;&quot; parameters: &quot;&lt;category&gt;&quot; outcome: &quot;&lt;result&gt;&quot; identity: &quot;&lt;username&gt;&quot; userRole: &quot;&lt;user_role&gt;&quot;"/>
+<MESSAGE
+	 id1="SYSTEM"
+	 id2="SYSTEM"
+	 eventcategory="1204000000"
+	 content="&lt;version&gt;&quot; deviceService: &quot;&lt;application&gt;&quot;  category:&lt;ec_theme&gt;operation: &quot;&lt;action&gt;&quot; outcome: &quot;&lt;result&gt;&quot; key: &quot;&lt;webpage&gt;&quot; identity: &quot;&lt;username&gt;&quot; userRole: &quot;&lt;user_role&gt;&quot;"/>
+<MESSAGE
+	 id1="SYSTEM:01"
+	 id2="SYSTEM"
+	 content="&lt;version&gt;&quot; deviceService: &quot;&lt;application&gt;&quot;  category:&lt;ec_theme&gt;operation: &quot;&lt;action&gt;&quot; parameters: &quot;Epl Module Identifier:&lt;rule_uid&gt;, Esper Instance:&lt;fld3&gt;, Epl Rule Enabled:&lt;fld4&gt;, Trial Rule:&lt;fld5&gt;&quot; key: &quot;&lt;fld2&gt;&quot; identity: &quot;&lt;username&gt;&quot;"/>
+<MESSAGE
+	 id1="SYSTEM:02"
+	 id2="SYSTEM"
+	 content="&lt;version&gt;&quot; deviceService: &quot;&lt;application&gt;&quot;  category:&lt;ec_theme&gt;operation: &quot;&lt;action&gt;&quot; parameters: &quot;&lt;fld1&gt;&quot; key: &quot;&lt;fld2&gt;"/>
+<MESSAGE
+	 id1="SYSTEM:03"
+	 id2="SYSTEM"
+	 content="&lt;version&gt;&quot; deviceService: &quot;&lt;application&gt;&quot;  category:&lt;ec_theme&gt;operation: &quot;&lt;action&gt;&quot; parameters: &quot;&lt;category&gt;&quot; outcome: &quot;&lt;result&gt;&quot; text: &quot;&lt;fd3&gt;&quot; identity: &quot;&lt;username&gt;&quot; userRole: &quot;&lt;user_role&gt;&quot;"/>
+<MESSAGE
+	 id1="SYSTEM:04"
+	 id2="SYSTEM"
+	 content="&lt;category&gt;&quot;,&quot;deviceProduct&quot;:&quot;NetWitness&quot;,&quot;deviceService&quot;:&quot;&lt;application&gt;&quot;,&quot;deviceVendor&quot;:&quot;RSA&quot;,&quot;deviceVersion&quot;:&quot;&lt;version&gt;&quot;,&quot;identity&quot;:&quot;&lt;username&gt;&quot;,&quot;operation&quot;:&quot;&lt;action&gt;&quot;,&quot;outcome&quot;:&quot;&lt;FAILURE&gt;&quot;,&quot;parameters&quot;:&quot;&lt;Execute&gt;&quot;,&quot;severity&quot;:&lt;severity&gt;,&quot;text&quot;:&quot;&lt;Chart execution failed for chart NWQUERY-01- Netwitness Completed Queries Chart having start time 4/17/18 6:55 AM and end time 4/17/18 7:54 AM, with the error: Data source  is not configured in Reporting Engine.&gt;&quot;,&quot;userRole&quot;:&quot;&lt;user_role&gt;&quot;}"/>
+</DEVICEMESSAGES>
